@@ -1,0 +1,41 @@
+@media (max-width: 767px) {
+  /* Styles for mobile screens */
+  .video-bg {
+    z-index: 0;
+    object-fit: cover; /* Ensure it fits well on smaller screens */
+  }
+
+  .bg-pink-blur {
+    overflow: hidden;
+    position: relative;
+  }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.lovey-dovey-text {
+  font-size: 1.2rem;
+  color: pink; /* Or any other lovey-dovey color */
+  position: absolute;
+}
+
+@media (min-width: 768px) {
+  /* Styles for desktop screens */
+  .video-bg {
+    z-index: 0;
+    object-fit: cover;
+  }
+
+  .bg-pink-blur {
+    overflow: hidden;
+    position: relative;
+  }
+}
+
+@keyframes move {
+  0% { transform: translate(0, 0); }
+  100% { transform: translate(50vw, 50vh); }
+}
