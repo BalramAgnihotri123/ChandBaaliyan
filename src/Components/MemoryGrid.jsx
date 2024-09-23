@@ -20,7 +20,7 @@ const MemoryGrid = ({ selectedMonth, onBack }) => {
     default: 4,
     1100: 3,
     700: 2,
-    500: 1,
+    500: 2,
   };
 
   return (
@@ -34,7 +34,7 @@ const MemoryGrid = ({ selectedMonth, onBack }) => {
       </button>
       <Masonry
         breakpointCols={breakpointColumnsObj}
-        className="flex"
+        className="flex p-3"
         columnClassName="my-masonry-grid_column"
       >
         {mixedMemories.map((memory, index) => (
@@ -48,11 +48,11 @@ const MemoryGrid = ({ selectedMonth, onBack }) => {
               <img
                 src={memory.src}
                 alt={`Memory ${selectedMonth} ${index}`}
-                className="w-full h-auto rounded-lg object-cover"
+                className="w-full h-auto rounded-lg object-cover hover:scale-110"
               />
             ) : (
               <video
-                className="w-full h-auto rounded-lg object-cover"
+                className="w-full h-auto rounded-lg object-cover hover:scale-110"
                 autoPlay
                 loop
                 muted={hoveredIndex !== index} // Unmute only the hovered video

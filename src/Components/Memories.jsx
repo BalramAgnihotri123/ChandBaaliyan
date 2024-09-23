@@ -19,6 +19,16 @@ const VideoLoader = () => (
   </div>
 );
 
+const settings = {
+  dots: true,
+  infinite: true,
+  speed: 600,
+  slidesToShow: 1,
+  slidesToScroll: 1,
+  autoplay: true,
+  autoplaySpeed: 2000,
+};
+
 
 const Memories = () => {
   const [selectedMonth, setSelectedMonth] = useState(null);
@@ -31,16 +41,6 @@ const Memories = () => {
     "April 2024", "May 2024", "June 2024",
     "July 2024", "August 2024", "September 2024"
   ];
-
-  const settings = {
-    dots: true,
-    infinite: true,
-    speed: 500,
-    slidesToShow: 1,
-    slidesToScroll: 1,
-    autoplay: true,
-    autoplaySpeed: 2000,
-  };
 
   const handleMonthClick = (month) => {
     setSelectedMonth(month);

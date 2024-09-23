@@ -38,7 +38,7 @@ function App() {
 
   const handleUnlock = (e) => {
     e.preventDefault();
-    const correctCode = process.env['SECRET_CODE'];
+    const correctCode = import.meta.env.VITE_SECRET_CODE;
     if (secretCode === correctCode) {
       setIsUnlocked(true);
     } else {
@@ -63,7 +63,7 @@ function App() {
       {/* Conditionally render locked or unlocked content */}
       {isUnlocked ? (
         <div className="relative z-10 bg-pink-blur pb-2 bg-center h-full">
-          <Navbar />
+          <Navbar showNav={true}/>
           {/* <h1 className="text-4xl text-white">Happy Anniversary!</h1> */}
         </div>
       ) : (
