@@ -38,7 +38,7 @@ function App() {
 
   const handleUnlock = (e) => {
     e.preventDefault();
-    const correctCode = 'a';
+    const correctCode = process.env['SECRET_CODE'];
     if (secretCode === correctCode) {
       setIsUnlocked(true);
     } else {
