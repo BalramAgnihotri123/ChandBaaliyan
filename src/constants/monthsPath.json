@@ -1,14 +1,4 @@
 {
-  "October 2023": {
-    "videos": [
-      "src/assets/memories/October 2023/videos/video1.mp4",
-      "src/assets/memories/October 2023/videos/video2.mp4"
-    ],
-    "images": [
-      "src/assets/memories/October 2023/images/image1.jpg",
-      "src/assets/memories/October 2023/images/image2.jpg"
-    ]
-  },
   "November 2023": {
     "videos": [
       "src/assets/memories/November 2023/videos/video1.mp4",
@@ -71,42 +61,53 @@
   },
   "May 2024": {
     "videos": [
-      "src/assets/memories/May 2024/videos/video1.mp4",
-      "src/assets/memories/May 2024/videos/video2.mp4"
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/v1727211138/Memories/May%202024/Videos/1.1.mp4",
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/v1727211138/Memories/May%202024/Videos/1.2.mp4"
     ],
     "images": [
-      "src/assets/memories/May 2024/images/image1.jpg",
-      "src/assets/memories/May 2024/images/image2.jpg"
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727211118/Memories/May%202024/Images/2.1.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727211118/Memories/May%202024/Images/2.2.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727211118/Memories/May%202024/Images/2.3.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727211118/Memories/May%202024/Images/2.4.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727211118/Memories/May%202024/Images/2.5.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727211118/Memories/May%202024/Images/2.6.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727211118/Memories/May%202024/Images/2.7.jpg"
     ]
   },
   "June 2024": {
     "videos": [
-      "src/assets/memories/June 2024/videos/video1.mp4",
-      "src/assets/memories/June 2024/videos/video2.mp4"
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/v1727210771/Memories/June%202024/Videos/1.1.mp4",
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/v1727210771/Memories/June%202024/Videos/1.2.mp4"
     ],
     "images": [
-      "src/assets/memories/June 2024/images/image1.jpg",
-      "src/assets/memories/June 2024/images/image2.jpg"
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727210762/Memories/June%202024/Images/2.1.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727210762/Memories/June%202024/Images/2.2.jpg"
     ]
   },
   "July 2024": {
     "videos": [
-      "src/assets/memories/July 2024/videos/video1.mp4",
-      "src/assets/memories/July 2024/videos/video2.mp4"
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/v1727208676/Memories/July%202024/Videos/1.1.mp4",
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/v1727208676/Memories/July%202024/Videos/1.2.mp4"
     ],
     "images": [
-      "src/assets/memories/July 2024/images/image1.jpg",
-      "src/assets/memories/July 2024/images/image2.jpg"
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727208659/Memories/July%202024/Images/2.1.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727208659/Memories/July%202024/Images/2.2.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727208659/Memories/July%202024/Images/2.3.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727208659/Memories/July%202024/Images/2.4.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727208659/Memories/July%202024/Images/2.5.jpg"
     ]
   },
   "August 2024": {
     "videos": [
-      "src/assets/memories/August 2024/videos/video1.mp4",
-      "src/assets/memories/August 2024/videos/video2.mp4"
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/v1727205507/Memories/August%202024/VIdeos/1.1.mp4",
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/v1727205507/Memories/August%202024/VIdeos/1.3.mp4",
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/v1727205507/Memories/August%202024/VIdeos/1.4.mp4",
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/v1727205507/Memories/August%202024/VIdeos/1.5.mp4"
     ],
     "images": [
-      "src/assets/memories/August 2024/images/image1.jpg",
-      "src/assets/memories/August 2024/images/image2.jpg"
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727205642/Memories/August%202024/Images/2.1.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727205642/Memories/August%202024/Images/2.3.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727205642/Memories/August%202024/Images/2.4.jpg"
     ]
   },
   "September 2024": {
