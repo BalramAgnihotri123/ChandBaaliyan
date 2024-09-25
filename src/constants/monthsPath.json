@@ -1,62 +1,102 @@
 {
   "November 2023": {
     "videos": [
-      "src/assets/memories/November 2023/videos/video1.mp4",
-      "src/assets/memories/November 2023/videos/video2.mp4"
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/v1727248001/Memories/November%202023/Videos/2.1.mp4",
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/v1727248001/Memories/November%202023/Videos/2.2.mp4"
     ],
     "images": [
-      "src/assets/memories/November 2023/images/image1.jpg",
-      "src/assets/memories/November 2023/images/image2.jpg"
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727248070/Memories/November%202023/Images/1.1.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727248070/Memories/November%202023/Images/1.2.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727248070/Memories/November%202023/Images/1.3.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727248070/Memories/November%202023/Images/1.5.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727248070/Memories/November%202023/Images/1.6.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727248070/Memories/November%202023/Images/1.7.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727248070/Memories/November%202023/Images/1.8.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727248070/Memories/November%202023/Images/1.9.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/a_270/v1727248070/Memories/November%202023/Images/1.10.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727248070/Memories/November%202023/Images/1.11.jpg"
     ]
   },
   "December 2023": {
     "videos": [
-      "src/assets/memories/December 2023/videos/video1.mp4",
-      "src/assets/memories/December 2023/videos/video2.mp4"
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/v1727253993/Memories/December%202023/Videos/2.2_sgveel.mp4",
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/a_270/v1727253961/Memories/December%202023/Videos/2.1_s02coe.mp4"
     ],
     "images": [
-      "src/assets/memories/December 2023/images/image1.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727253487/Memories/December%202023/Images/1.13_kaq3fy.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727253539/Memories/December%202023/Images/1.8_cl6vg4.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727253546/Memories/December%202023/Images/1.14_udfaqt.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727253582/Memories/December%202023/Images/1.2_aead83.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727253665/Memories/December%202023/Images/1.1_ttlxno.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727253652/Memories/December%202023/Images/1.7_qpxl2a.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727253652/Memories/December%202023/Images/1.7_qpxl2a.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727253644/Memories/December%202023/Images/1.19_ll86nl.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727253634/Memories/December%202023/Images/1.26_x81upa.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727253618/Memories/December%202023/Images/1.3_frhbh6.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727253606/Memories/December%202023/Images/1.4_n18qbe.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727253754/Memories/December%202023/Images/1.23_pzpy5a.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/a_270/v1727253745/Memories/December%202023/Images/1.24_pdmuyh.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727253728/Memories/December%202023/Images/1.20_ru9azn.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727253680/Memories/December%202023/Images/1.25_wxcxxe.jpg",
       "src/assets/memories/December 2023/images/image2.jpg"
     ]
   },
   "January 2024": {
     "videos": [
-      "src/assets/memories/January 2024/videos/video1.mp4",
-      "src/assets/memories/January 2024/videos/video2.mp4"
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/v1727252589/Memories/January%202024/Videos/2.1_c9prnv.mp4",
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/v1727254204/Memories/January%202024/Videos/2.2_nehsdb.mp4",
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/v1727254219/Memories/January%202024/Videos/2.3_yasv4z.mp4",
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/v1727254952/Memories/January%202024/Videos/Snapchat-1897185698_kn4zfb.mp4",
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/v1727254964/Memories/January%202024/Videos/Snapchat-438626712_gssxi1.mp4",
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/v1727254943/Memories/January%202024/Videos/Snapchat-327687386_dqtw5v.mp4",
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/v1727255006/Memories/January%202024/Videos/Snapchat-1084612938_glmvzd.mp4",
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/v1727255022/Memories/January%202024/Videos/Snapchat-635881030_ppghwc.mp4",
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/v1727255040/Memories/January%202024/Videos/Snapchat-2120546541_cbv2nu.mp4",
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/v1727255052/Memories/January%202024/Videos/Snapchat-1360880888_v6jnuw.mp4"
     ],
     "images": [
-      "src/assets/memories/January 2024/images/image1.jpg",
-      "src/assets/memories/January 2024/images/image2.jpg"
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727252311/Memories/January%202024/Images/1.1.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727252311/Memories/January%202024/Images/1.2.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727252311/Memories/January%202024/Images/1.3.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727252311/Memories/January%202024/Images/1.4.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727252311/Memories/January%202024/Images/1.5.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727252311/Memories/January%202024/Images/1.7.jpg"
     ]
   },
   "February 2024": {
     "videos": [
-      "src/assets/memories/February 2024/videos/video1.mp4",
-      "src/assets/memories/February 2024/videos/video2.mp4"
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/v1727254806/Memories/February%202024/Videos/2.1_grf1wf.mp4"
     ],
     "images": [
-      "src/assets/memories/February 2024/images/image1.jpg",
-      "src/assets/memories/February 2024/images/image2.jpg"
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727254747/Memories/February%202024/1.2_umhnx1.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727254765/Memories/February%202024/1.1_hax0bx.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727254785/Memories/February%202024/1.4_ympxoa.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727254756/Memories/February%202024/1.3_nhakxu.jpg"
     ]
   },
   "March 2024": {
     "videos": [
-      "src/assets/memories/March 2024/videos/video1.mp4",
-      "src/assets/memories/March 2024/videos/video2.mp4"
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/v1727250886/Memories/March%202024/Videos/2.1.mp4"
     ],
     "images": [
-      "src/assets/memories/March 2024/images/image1.jpg",
-      "src/assets/memories/March 2024/images/image2.jpg"
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727250795/Memories/March%202024/Images/1.1.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727250795/Memories/March%202024/Images/1.2.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727250795/Memories/March%202024/Images/1.3.jpg"
     ]
   },
   "April 2024": {
     "videos": [
-      "src/assets/memories/April 2024/videos/video1.mp4",
-      "src/assets/memories/April 2024/videos/video2.mp4"
+      "https://res.cloudinary.com/dnoomtyyx/video/upload/a_270/v1727249546/Memories/April/Videos/2.1_a6uzi1.mp4"
     ],
     "images": [
-      "src/assets/memories/April 2024/images/image1.jpg",
-      "src/assets/memories/April 2024/images/image2.jpg"
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727249214/Memories/April/Images/1.1.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727249214/Memories/April/Images/1.2.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/a_270/v1727249214/Memories/April/Images/1.3.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/a_270/v1727249214/Memories/April/Images/1.4.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727249214/Memories/April/Images/1.5.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/a_270/v1727249214/Memories/April/Images/1.6.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/a_270/v1727249214/Memories/April/Images/1.7.jpg",
+      "https://res.cloudinary.com/dnoomtyyx/image/upload/v1727249214/Memories/April/Images/1.8.jpg"
     ]
   },
   "May 2024": {

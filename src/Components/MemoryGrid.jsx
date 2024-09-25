@@ -24,49 +24,52 @@ const MemoryGrid = ({ selectedMonth, onBack }) => {
   };
 
   return (
-    <div className="p-4">
-      <h2 className="text-3xl text-white mb-4">{selectedMonth}</h2>
-      <button
-        onClick={onBack}
-        className="mb-4 bg-pink-600 text-white py-2 px-4 rounded"
-      >
-        Back to Months
-      </button>
-      <Masonry
-        breakpointCols={breakpointColumnsObj}
-        className="flex p-3"
-        columnClassName="my-masonry-grid_column"
-      >
-        {mixedMemories.map((memory, index) => (
-          <div
-            key={index}
-            className="overflow-hidden rounded-lg group relative"
-            onMouseEnter={() => setHoveredIndex(index)}
-            onMouseLeave={() => setHoveredIndex(null)}
-          >
-            {memory.type === 'image' ? (
-              <img
-                src={memory.src}
-                alt={`Memory ${selectedMonth} ${index}`}
-                className="w-full h-auto rounded-lg object-cover hover:scale-110"
-              />
-            ) : (
-              <video
-                className="w-full h-auto rounded-lg object-cover hover:scale-110"
-                autoPlay
-                loop
-                muted={hoveredIndex !== index} // Unmute only the hovered video
-              >
-                <source src={memory.src} type="video/mp4" />
-                Your browser does not support the video tag.
-              </video>
-            )}
-            {memory.type === 'video' && (
-              <div className="absolute inset-0 bg-black opacity-0 group-hover:opacity-40 transition-opacity duration-300"></div>
-            )}
-          </div>
-        ))}
-      </Masonry>
+    <div className="p-4 flex justify-center">
+      <div className="bg-[#f8f4e3] rounded-lg p-6 w-full max-w-7xl shadow-[0_0_20px_rgba(255,105,180,0.8),0_0_40px_rgba(255,182,193,0.6)]">
+        <h2 className="text-5xl text-gray-800 font-semibold text-center mb-6">
+          {selectedMonth}
+        </h2>
+        <button
+          onClick={onBack}
+          className="mb-4 bg-[#f8f4e3] text-gray-800 py-2 px-4 rounded shadow transition duration-300 hover:bg-[#e0d9c1]"
+        >
+          Back to Months
+        </button>
+        <Masonry
+          breakpointCols={breakpointColumnsObj}
+          className="flex p-3"
+          columnClassName="my-masonry-grid_column"
+        >
+          {mixedMemories.map((memory, index) => (
+            <div
+              key={index}
+              className={`bg-[#f8f4e3] p-2 rounded-lg overflow-hidden group relative transition-transform duration-300 shadow-lg ${
+                hoveredIndex === index ? 'scale-110 brightness-110 shadow-[0_0_20px_rgba(255,105,180,0.8),0_0_40px_rgba(255,182,193,0.6)]' : 'shadow-none'
+              }`}
+              onMouseEnter={() => setHoveredIndex(index)}
+              onMouseLeave={() => setHoveredIndex(null)}
+            >
+              {memory.type === 'image' ? (
+                <img
+                  src={memory.src}
+                  alt={`Memory ${selectedMonth} ${index}`}
+                  className="w-full h-auto rounded-lg object-cover"
+                />
+              ) : (
+                <video
+                  className="w-full h-auto rounded-lg object-cover"
+                  autoPlay
+                  loop
+                  muted={hoveredIndex !== index} // Unmute only the hovered video
+                >
+                  <source src={memory.src} type="video/mp4" />
+                  Your browser does not support the video tag.
+                </video>
+              )}
+            </div>
+          ))}
+        </Masonry>
+      </div>
     </div>
   );
 };

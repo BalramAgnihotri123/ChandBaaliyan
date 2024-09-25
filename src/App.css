@@ -10,11 +10,11 @@
     position: relative;
   }
 }
-
+/* 
 @keyframes spin {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
-}
+} */
 
 .lovey-dovey-text {
   font-size: 1.2rem;
@@ -38,4 +38,8 @@
 @keyframes move {
   0% { transform: translate(0, 0); }
   100% { transform: translate(50vw, 50vh); }
+}
+
+.shadow-inner {
+  box-shadow: inset 0 4px 8px rgba(0, 0, 0, 0.1); /* Adjust values as needed */
 }
